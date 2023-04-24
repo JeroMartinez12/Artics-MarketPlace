@@ -1,0 +1,3 @@
+# Artics-MarketPlace
+
+In this project, I had the opportunity to lead a team following the agile SCRUM methodology. To carry out this work, I decided to divide the team into two groups: one dedicated to the development of the front-end of the application and the other to the back-end. The main goal of the project was to create a marketplace where users could register, log in, buy and sell digital art items, as well as create and edit their own digital products. To achieve this project, we used Vue.js and Java as the main technologies in the front-end and back-end, respectively. The final delivered application was an example of how to work efficiently as a team and achieve high-quality deliveries within the stipulated time.
